@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'rescue_from_api'
+  s.name        = 'api_rescuable'
   s.version     = '0.1.0'
   s.date        = '2017-03-02'
   s.summary     = "Exception Handler for Rails APIs"
@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Tejas Bubane"]
   s.email       = 'tejasbubane@gmail.com'
   s.files       = ["lib/api_rescuable.rb"]
-  s.homepage    = 'http://rubygems.org/gems/api_rescuable'
+  s.homepage    = 'https://github.com/tejasbubane/api_rescuable'
   s.license     = 'MIT'
 
   s.require_path = "lib"
