@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rescue_from_api (0.1.0)
+    api_rescuable (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -110,10 +110,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  api_rescuable!
   byebug
   minitest
   rails (= 5.0.2)
-  rescue_from_api!
 
 BUNDLED WITH
    1.13.7
